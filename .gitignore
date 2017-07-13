@@ -1,0 +1,4 @@
+Main.c
+*.o
+Makefile
+teste
